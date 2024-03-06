@@ -1,11 +1,11 @@
 # Frontend Mentor - Blog Card Component
 
-This is a solution to the [Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub). 
+This is a solution to the [Blog Card Component](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub)
+  - [The challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
   - [Screenshot](./assets/images/web.png)
 - [Author](#author)
 
@@ -17,8 +17,8 @@ This is a solution to the [Interactive rating component](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [[https://www.frontendmentor.io/solutions/responsive-social-link-profile-component-UMTWyJJlLl](https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-8cR2qhcPez))] 
-- Live Site URL: [[https://rugarcia25.github.io/social-links-profile-main/](https://rugarcia25.github.io/interactive-rating-component-main/)]
+- Solution URL: [[https://github.com/rugarcia25/blog-card-component](https://github.com/rugarcia25/blog-card-component)] 
+- Live Site URL: [[https://rugarcia25.github.io/blog-card-component/](https://rugarcia25.github.io/blog-card-component/)]
 
 ### Built with
 
